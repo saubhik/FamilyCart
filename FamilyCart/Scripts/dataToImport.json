@@ -1,0 +1,4506 @@
+{
+  "online": {
+    "FrGpkXStpdTBHNl8to76P9GteHY2": "saubhik@gatech.edu"
+  },
+  "grocery-carts": {
+    "cart-0": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1630468800.0,
+      "completed": true,
+      "name": "cart-0",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 9.28
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 11.78
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 17.99
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 23.36
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 20.51
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 6.11
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 22.55
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 16.43
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 17.14
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 7.35
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 13.56
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 9.9
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 9.05
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 7.5
+        },
+        "item-15": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 22.98
+        },
+        "item-16": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 12.54
+        },
+        "item-17": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-17",
+          "price": 14.27
+        },
+        "item-18": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630468800.0,
+          "completed": true,
+          "name": "item-18",
+          "price": 22.54
+        }
+      },
+      "totalPrice": 264.84
+    },
+    "cart-1": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1630641600.0,
+      "completed": true,
+      "name": "cart-1",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 21.5
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 7.09
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 21.15
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 7.74
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 7.02
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 8.09
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 18.86
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 6.34
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 13.02
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 20.6
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 11.88
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 14.65
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 16.2
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 12.05
+        },
+        "item-15": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 14.02
+        },
+        "item-16": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1630641600.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 23.68
+        }
+      },
+      "totalPrice": 223.89
+    },
+    "cart-2": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1630814400.0,
+      "completed": true,
+      "name": "cart-2",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630814400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 8.94
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630814400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 16.2
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630814400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 12.71
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630814400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 19.01
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630814400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 10.57
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630814400.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 22.21
+        }
+      },
+      "totalPrice": 89.64
+    },
+    "cart-3": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1630987200.0,
+      "completed": true,
+      "name": "cart-3",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 17.78
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 14.45
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 18.13
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 6.95
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 14.7
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 19.74
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 23.06
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 20.69
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 19.11
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 15.47
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 18.48
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 12.51
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 13.26
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 17.4
+        },
+        "item-15": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1630987200.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 7.69
+        }
+      },
+      "totalPrice": 239.42
+    },
+    "cart-4": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1631160000.0,
+      "completed": true,
+      "name": "cart-4",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 13.15
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 23.28
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 8.18
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 12.45
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 12.91
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 6.96
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 8.29
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 18.13
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 21.7
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631160000.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 12.61
+        }
+      },
+      "totalPrice": 137.66
+    },
+    "cart-5": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1631332800.0,
+      "completed": true,
+      "name": "cart-5",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 17.76
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 6.26
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 24.84
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 22.51
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 13.5
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 20.2
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 17.76
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 6.29
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 19.72
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 5.95
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 17.66
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 19.66
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 22.22
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 9.67
+        },
+        "item-15": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 21.69
+        },
+        "item-16": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 10.35
+        },
+        "item-17": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-17",
+          "price": 22.46
+        },
+        "item-18": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1631332800.0,
+          "completed": true,
+          "name": "item-18",
+          "price": 10.07
+        }
+      },
+      "totalPrice": 288.57
+    },
+    "cart-6": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1631505600.0,
+      "completed": true,
+      "name": "cart-6",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 13.19
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 10.32
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 11.51
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 21.7
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 19.82
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 12.11
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 19.43
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 16.25
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 15.32
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 13.51
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 23.67
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 7.62
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 21.12
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 24.11
+        },
+        "item-15": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 5.38
+        },
+        "item-16": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631505600.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 10.23
+        }
+      },
+      "totalPrice": 245.29
+    },
+    "cart-7": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1631678400.0,
+      "completed": true,
+      "name": "cart-7",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631678400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 11.43
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631678400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 10.78
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631678400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 8.4
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631678400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 21.67
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631678400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 14.42
+        }
+      },
+      "totalPrice": 66.7
+    },
+    "cart-8": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1631851200.0,
+      "completed": true,
+      "name": "cart-8",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 12.82
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 7.67
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 22.64
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 18.07
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 19.28
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 9.29
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 24.92
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 5.06
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 16.87
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 5.9
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 20.28
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 15.19
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1631851200.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 20.83
+        }
+      },
+      "totalPrice": 198.82
+    },
+    "cart-9": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1632024000.0,
+      "completed": true,
+      "name": "cart-9",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 12.16
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 10.13
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 14.83
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 5.21
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 6.77
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 5.71
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 12.0
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 16.89
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 7.57
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632024000.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 21.09
+        }
+      },
+      "totalPrice": 112.36
+    },
+    "cart-10": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1632196800.0,
+      "completed": true,
+      "name": "cart-10",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 16.17
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 24.46
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 24.57
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 18.61
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 8.59
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 17.01
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 16.79
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 6.92
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 23.8
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632196800.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 18.24
+        }
+      },
+      "totalPrice": 175.16
+    },
+    "cart-11": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1632369600.0,
+      "completed": true,
+      "name": "cart-11",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632369600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 23.12
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632369600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 10.79
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632369600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 6.0
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632369600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 24.15
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632369600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 18.69
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632369600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 17.87
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632369600.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 7.87
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632369600.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 13.31
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632369600.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 7.42
+        }
+      },
+      "totalPrice": 129.22
+    },
+    "cart-12": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1632542400.0,
+      "completed": true,
+      "name": "cart-12",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 20.11
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 18.17
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 14.38
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 21.76
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 19.01
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 12.26
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 7.19
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 7.44
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 20.35
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 8.43
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 8.94
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 20.19
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632542400.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 13.94
+        }
+      },
+      "totalPrice": 192.17
+    },
+    "cart-13": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1632715200.0,
+      "completed": true,
+      "name": "cart-13",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 22.33
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 7.43
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 9.48
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 11.82
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 22.64
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 13.69
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 21.43
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 23.38
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 7.71
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 10.06
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 18.59
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 22.22
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 9.05
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1632715200.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 17.37
+        }
+      },
+      "totalPrice": 217.2
+    },
+    "cart-14": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1632888000.0,
+      "completed": true,
+      "name": "cart-14",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632888000.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 20.22
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632888000.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 6.38
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632888000.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 9.53
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632888000.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 14.87
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632888000.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 9.76
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632888000.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 18.98
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632888000.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 12.88
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1632888000.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 14.14
+        }
+      },
+      "totalPrice": 106.76
+    },
+    "cart-15": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1633060800.0,
+      "completed": true,
+      "name": "cart-15",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 18.92
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 22.44
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 22.1
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 5.88
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 17.42
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 11.16
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 22.27
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 9.51
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 22.46
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 23.66
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 21.12
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 22.77
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 22.07
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 22.32
+        },
+        "item-15": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 22.0
+        },
+        "item-16": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 13.27
+        },
+        "item-17": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633060800.0,
+          "completed": true,
+          "name": "item-17",
+          "price": 5.81
+        }
+      },
+      "totalPrice": 305.18
+    },
+    "cart-16": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1633233600.0,
+      "completed": true,
+      "name": "cart-16",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 9.34
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 13.34
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 20.54
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 15.61
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 16.56
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 20.45
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 6.42
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 16.59
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 6.14
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 12.22
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 23.08
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 15.51
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 16.96
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 5.26
+        },
+        "item-15": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 7.65
+        },
+        "item-16": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 23.21
+        },
+        "item-17": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-17",
+          "price": 23.38
+        },
+        "item-18": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633233600.0,
+          "completed": true,
+          "name": "item-18",
+          "price": 8.08
+        }
+      },
+      "totalPrice": 260.34
+    },
+    "cart-17": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1633406400.0,
+      "completed": true,
+      "name": "cart-17",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 15.85
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 19.32
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 21.01
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 7.78
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 15.99
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 20.0
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 10.92
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 24.43
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 13.1
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 19.71
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 24.84
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 6.79
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633406400.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 24.1
+        }
+      },
+      "totalPrice": 223.84
+    },
+    "cart-18": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1633579200.0,
+      "completed": true,
+      "name": "cart-18",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 22.82
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 23.86
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 12.45
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 20.9
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 11.2
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 20.19
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 9.98
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 21.53
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 18.73
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 9.26
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 10.2
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1633579200.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 18.24
+        }
+      },
+      "totalPrice": 199.36
+    },
+    "cart-19": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1633752000.0,
+      "completed": true,
+      "name": "cart-19",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 22.77
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 11.19
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 19.5
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 5.55
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 24.74
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 24.01
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 6.69
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 23.31
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 7.98
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 6.92
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633752000.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 8.12
+        }
+      },
+      "totalPrice": 160.78
+    },
+    "cart-20": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1633924800.0,
+      "completed": true,
+      "name": "cart-20",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 9.75
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 21.54
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 16.41
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 16.75
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 11.53
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 24.8
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 5.56
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 9.24
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 22.09
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 13.94
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 22.23
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 7.68
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 21.34
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 19.12
+        },
+        "item-15": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 11.43
+        },
+        "item-16": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 17.39
+        },
+        "item-17": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1633924800.0,
+          "completed": true,
+          "name": "item-17",
+          "price": 19.4
+        }
+      },
+      "totalPrice": 270.2
+    },
+    "cart-21": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1634097600.0,
+      "completed": true,
+      "name": "cart-21",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634097600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 22.17
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634097600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 23.97
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634097600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 24.95
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634097600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 12.26
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634097600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 16.95
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634097600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 7.99
+        }
+      },
+      "totalPrice": 108.29
+    },
+    "cart-22": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1634270400.0,
+      "completed": true,
+      "name": "cart-22",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634270400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 7.22
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634270400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 14.53
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634270400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 6.63
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634270400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 15.99
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634270400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 20.87
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634270400.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 18.54
+        }
+      },
+      "totalPrice": 83.78
+    },
+    "cart-23": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1634443200.0,
+      "completed": true,
+      "name": "cart-23",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634443200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 12.29
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634443200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 18.72
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634443200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 23.87
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634443200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 6.31
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634443200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 14.52
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634443200.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 18.29
+        }
+      },
+      "totalPrice": 94.0
+    },
+    "cart-24": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1634616000.0,
+      "completed": true,
+      "name": "cart-24",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 12.52
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 6.47
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 21.97
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 23.99
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 23.93
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 20.74
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 15.85
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 18.55
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 24.39
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 15.19
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 6.76
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 5.62
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 13.75
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 10.35
+        },
+        "item-15": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634616000.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 5.78
+        }
+      },
+      "totalPrice": 225.86
+    },
+    "cart-25": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1634788800.0,
+      "completed": true,
+      "name": "cart-25",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 15.23
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 15.72
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 22.55
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 12.09
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 6.36
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 21.28
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 23.3
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 15.38
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 9.92
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 16.35
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 24.28
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 11.67
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 11.81
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 21.83
+        },
+        "item-15": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1634788800.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 16.18
+        }
+      },
+      "totalPrice": 243.95
+    },
+    "cart-26": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1634961600.0,
+      "completed": true,
+      "name": "cart-26",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 12.1
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 5.97
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 19.99
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 21.45
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 11.62
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 21.06
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 16.59
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 22.0
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 10.71
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 21.41
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 21.6
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 21.24
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 14.0
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1634961600.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 12.6
+        }
+      },
+      "totalPrice": 232.34
+    },
+    "cart-27": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1635134400.0,
+      "completed": true,
+      "name": "cart-27",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 13.71
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 18.25
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 24.26
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 16.54
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 7.09
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 21.58
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 7.33
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 22.91
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 16.33
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 8.09
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 24.0
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 14.26
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635134400.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 5.81
+        }
+      },
+      "totalPrice": 200.16
+    },
+    "cart-28": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1635307200.0,
+      "completed": true,
+      "name": "cart-28",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635307200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 24.07
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635307200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 6.7
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635307200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 21.63
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635307200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 19.46
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635307200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 6.87
+        }
+      },
+      "totalPrice": 78.73
+    },
+    "cart-29": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1635480000.0,
+      "completed": true,
+      "name": "cart-29",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635480000.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 13.9
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635480000.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 22.74
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635480000.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 15.12
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635480000.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 12.08
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635480000.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 8.06
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635480000.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 14.14
+        }
+      },
+      "totalPrice": 86.04
+    },
+    "cart-30": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1635652800.0,
+      "completed": true,
+      "name": "cart-30",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635652800.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 10.2
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635652800.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 10.14
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635652800.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 11.61
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635652800.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 6.28
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635652800.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 17.57
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635652800.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 6.99
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635652800.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 14.16
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635652800.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 11.63
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1635652800.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 24.26
+        }
+      },
+      "totalPrice": 112.84
+    },
+    "cart-31": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1635825600.0,
+      "completed": true,
+      "name": "cart-31",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 15.62
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 20.86
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 19.8
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 10.77
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 22.79
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 17.47
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 13.16
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 9.73
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 14.04
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 18.03
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 12.23
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 19.04
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 18.6
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 17.67
+        },
+        "item-15": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 5.81
+        },
+        "item-16": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635825600.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 11.77
+        }
+      },
+      "totalPrice": 247.39
+    },
+    "cart-32": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1635998400.0,
+      "completed": true,
+      "name": "cart-32",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 22.44
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 18.98
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 17.07
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 20.24
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 6.27
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 17.84
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 6.78
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 13.01
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 17.06
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 21.07
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 10.44
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 22.98
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 9.8
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 21.39
+        },
+        "item-15": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 18.3
+        },
+        "item-16": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 5.84
+        },
+        "item-17": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-17",
+          "price": 21.67
+        },
+        "item-18": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1635998400.0,
+          "completed": true,
+          "name": "item-18",
+          "price": 14.53
+        }
+      },
+      "totalPrice": 285.71
+    },
+    "cart-33": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1636171200.0,
+      "completed": true,
+      "name": "cart-33",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 18.56
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 15.35
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 18.78
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 15.12
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 18.72
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 13.38
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 8.97
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 23.5
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 22.28
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 22.39
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 7.96
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 21.02
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 8.16
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 19.34
+        },
+        "item-15": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 12.97
+        },
+        "item-16": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 19.13
+        },
+        "item-17": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-17",
+          "price": 20.23
+        },
+        "item-18": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636171200.0,
+          "completed": true,
+          "name": "item-18",
+          "price": 11.91
+        }
+      },
+      "totalPrice": 297.77
+    },
+    "cart-34": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1636347600.0,
+      "completed": true,
+      "name": "cart-34",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 9.62
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 23.65
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 21.69
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 8.55
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 23.96
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 19.26
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 14.1
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 14.03
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 12.92
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 13.8
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 15.93
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 23.74
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 19.03
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 18.66
+        },
+        "item-15": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 10.62
+        },
+        "item-16": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-16",
+          "price": 23.82
+        },
+        "item-17": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-17",
+          "price": 14.0
+        },
+        "item-18": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636347600.0,
+          "completed": true,
+          "name": "item-18",
+          "price": 19.08
+        }
+      },
+      "totalPrice": 306.46
+    },
+    "cart-35": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1636520400.0,
+      "completed": true,
+      "name": "cart-35",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 20.05
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 12.25
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 20.78
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 12.3
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 20.42
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 7.05
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 6.06
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 8.52
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 12.32
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 18.67
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1636520400.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 9.75
+        }
+      },
+      "totalPrice": 148.17
+    },
+    "cart-36": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1636693200.0,
+      "completed": true,
+      "name": "cart-36",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 12.24
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 6.6
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 17.64
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 5.69
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 6.77
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 19.93
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 18.76
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 17.76
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 7.8
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636693200.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 22.46
+        }
+      },
+      "totalPrice": 135.65
+    },
+    "cart-37": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1636866000.0,
+      "completed": true,
+      "name": "cart-37",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636866000.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 18.43
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636866000.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 22.57
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636866000.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 15.82
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1636866000.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 20.9
+        }
+      },
+      "totalPrice": 77.72
+    },
+    "cart-38": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1637038800.0,
+      "completed": true,
+      "name": "cart-38",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637038800.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 9.62
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637038800.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 17.93
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637038800.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 21.71
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637038800.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 14.64
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637038800.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 16.86
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637038800.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 17.48
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637038800.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 12.95
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637038800.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 15.28
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637038800.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 6.24
+        }
+      },
+      "totalPrice": 132.71
+    },
+    "cart-39": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1637211600.0,
+      "completed": true,
+      "name": "cart-39",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 7.31
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 9.36
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 10.41
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 21.12
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 20.27
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 13.9
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 12.67
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 17.04
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 6.9
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 21.49
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 14.21
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 12.47
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 10.15
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 15.65
+        },
+        "item-15": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1637211600.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 18.66
+        }
+      },
+      "totalPrice": 211.61
+    },
+    "cart-40": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1637384400.0,
+      "completed": true,
+      "name": "cart-40",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 20.54
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 6.51
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 13.53
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 16.96
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 13.67
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 9.67
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 19.79
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 21.38
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 20.58
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 13.08
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 18.17
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637384400.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 7.37
+        }
+      },
+      "totalPrice": 181.25
+    },
+    "cart-41": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1637557200.0,
+      "completed": true,
+      "name": "cart-41",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 10.18
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 10.05
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 8.2
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 22.84
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 12.2
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 18.23
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 20.45
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 16.79
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 16.81
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 6.82
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 9.06
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 9.2
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 15.06
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 12.65
+        },
+        "item-15": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637557200.0,
+          "completed": true,
+          "name": "item-15",
+          "price": 5.42
+        }
+      },
+      "totalPrice": 193.96
+    },
+    "cart-42": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1637730000.0,
+      "completed": true,
+      "name": "cart-42",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 23.75
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 14.31
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 7.75
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 9.94
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 18.39
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 17.39
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 19.99
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 6.65
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 21.34
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 8.21
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637730000.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 23.69
+        }
+      },
+      "totalPrice": 171.41
+    },
+    "cart-43": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1637902800.0,
+      "completed": true,
+      "name": "cart-43",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 12.76
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 8.14
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 11.57
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 24.77
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 18.65
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 11.13
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 12.62
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 7.09
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 15.15
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1637902800.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 24.75
+        }
+      },
+      "totalPrice": 146.63
+    },
+    "cart-44": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1638075600.0,
+      "completed": true,
+      "name": "cart-44",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 8.64
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 22.94
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 13.35
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 16.5
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 15.26
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 18.83
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 23.14
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 7.35
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 5.34
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 18.59
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 15.89
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 17.59
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 7.47
+        },
+        "item-14": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638075600.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 18.87
+        }
+      },
+      "totalPrice": 209.76
+    },
+    "cart-45": {
+      "addedByUser": "saubhik@gatech.edu",
+      "addedOn": 1638248400.0,
+      "completed": true,
+      "name": "cart-45",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 14.37
+        },
+        "item-2": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 6.73
+        },
+        "item-3": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 12.58
+        },
+        "item-4": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 19.77
+        },
+        "item-5": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 20.76
+        },
+        "item-6": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 22.81
+        },
+        "item-7": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 24.36
+        },
+        "item-8": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 16.23
+        },
+        "item-9": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 18.81
+        },
+        "item-10": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 15.67
+        },
+        "item-11": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 19.01
+        },
+        "item-12": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 17.4
+        },
+        "item-13": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 14.16
+        },
+        "item-14": {
+          "addedByUser": "saubhik@gatech.edu",
+          "addedOn": 1638248400.0,
+          "completed": true,
+          "name": "item-14",
+          "price": 15.76
+        }
+      },
+      "totalPrice": 238.42
+    },
+    "cart-46": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1638421200.0,
+      "completed": true,
+      "name": "cart-46",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638421200.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 12.96
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638421200.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 15.01
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638421200.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 6.2
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638421200.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 11.66
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638421200.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 6.68
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638421200.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 19.06
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638421200.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 18.95
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638421200.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 14.41
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638421200.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 21.8
+        }
+      },
+      "totalPrice": 126.73
+    },
+    "cart-47": {
+      "addedByUser": "ankita@gatech.edu",
+      "addedOn": 1638594000.0,
+      "completed": true,
+      "name": "cart-47",
+      "grocery-items": {
+        "item-1": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-1",
+          "price": 14.3
+        },
+        "item-2": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-2",
+          "price": 10.66
+        },
+        "item-3": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-3",
+          "price": 18.93
+        },
+        "item-4": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-4",
+          "price": 14.71
+        },
+        "item-5": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-5",
+          "price": 14.22
+        },
+        "item-6": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-6",
+          "price": 15.63
+        },
+        "item-7": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-7",
+          "price": 12.16
+        },
+        "item-8": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-8",
+          "price": 14.16
+        },
+        "item-9": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-9",
+          "price": 9.09
+        },
+        "item-10": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-10",
+          "price": 15.6
+        },
+        "item-11": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-11",
+          "price": 18.96
+        },
+        "item-12": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-12",
+          "price": 5.85
+        },
+        "item-13": {
+          "addedByUser": "ankita@gatech.edu",
+          "addedOn": 1638594000.0,
+          "completed": true,
+          "name": "item-13",
+          "price": 7.78
+        }
+      },
+      "totalPrice": 172.05
+    }
+  }
+}
