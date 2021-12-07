@@ -1,6 +1,6 @@
 # FamilyCart
 
-![FamilyCart Icon](./FamilyCart/FamilyCart Icon.png)
+![FamilyCart Icon](./FamilyCart/FamilyCart%20Icon.png)
 
 Simple **shared** shopping list **for households** providing
 
