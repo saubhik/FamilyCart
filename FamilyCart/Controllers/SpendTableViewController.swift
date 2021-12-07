@@ -12,7 +12,7 @@ class SpendTableViewController: UITableViewController {
   
   var user: User?
   var handle: AuthStateDidChangeListenerHandle?
-  var carts: [GroceryCart]?
+  var completedCarts: [GroceryCart]?
   
   @IBOutlet weak var firstCell: UITableViewCell!
   @IBOutlet weak var secondCell: UITableViewCell!
@@ -45,36 +45,36 @@ class SpendTableViewController: UITableViewController {
       var totalPriceOneWeek: Decimal = 0.0
       var totalPriceThreeWeeks: Decimal = 0.0
       var totalPriceThreeMonths: Decimal = 0.0
-      var totalPriceByCurrentUser: Decimal = 0.0
       
-      var carts: [GroceryCart] = []
+      var completedCarts: [GroceryCart] = []
       
       for child in snapshot.children {
         if
           let snapshot = child as? DataSnapshot,
           let cart = GroceryCart(snapshot: snapshot) {
           
-          if cart.addedOn > startDateOneWeekBack! {
-            totalPriceOneWeek += cart.totalPrice
+          if cart.completed {
+            if cart.addedOn > startDateOneWeekBack! {
+              totalPriceOneWeek += cart.totalPrice
+            }
+            
+            if cart.addedOn > startDateThreeWeeksBack! {
+              totalPriceThreeWeeks += cart.totalPrice
+            }
+            
+            if cart.addedOn > startDateThreeMonthsBack! {
+              totalPriceThreeMonths += cart.totalPrice
+            }
+            
+            completedCarts.append(cart)
           }
-          
-          if cart.addedOn > startDateThreeWeeksBack! {
-            totalPriceThreeWeeks += cart.totalPrice
-          }
-          
-          if cart.addedOn > startDateThreeMonthsBack! {
-            totalPriceThreeMonths += cart.totalPrice
-          }
-          
-          carts.append(cart)
         }
       }
       
       self.totalPriceOneWeek = totalPriceOneWeek
       self.totalPriceThreeWeeks = totalPriceThreeWeeks
       self.totalPriceThreeMonths = totalPriceThreeMonths
-      self.totalPriceByCurrentUser = totalPriceByCurrentUser
-      self.carts = carts
+      self.completedCarts = completedCarts
     })
     
     firstCell.textLabel?.text = "Monthly Average (over last 3 months)"
@@ -94,9 +94,9 @@ class SpendTableViewController: UITableViewController {
     let username = self.user?.email.components(separatedBy: "@").first
     fourthCell.textLabel?.text = "Total Purchase By \"\(username ?? "User")\""
     
-    for cart in self.carts! {
-      if cart.addedByUser == self.user?.email {
-        self.totalPriceByCurrentUser += cart.totalPrice
+    for completedCart in self.completedCarts! {
+      if completedCart.addedByUser == self.user?.email {
+        self.totalPriceByCurrentUser += completedCart.totalPrice
       }
     }
     
