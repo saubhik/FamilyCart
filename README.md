@@ -14,7 +14,7 @@ Simple **shared** shopping list **for households** providing
 
 - Clone the repository to your macbook.
 - Open the project in Xcode.
-- You might need to do `File -> Packages -> Rest Package Caches` to avoid package resolution issues.
+- You might need to do `File -> Packages -> Reset Package Caches` to avoid package resolution issues.
 - Let Xcode resolve the dependent packages.
 - Press `Cmd+B` to build, and then `Cmd+R` to run it in iPhone 11 Simulator.
 
