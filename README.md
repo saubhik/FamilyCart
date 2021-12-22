@@ -13,6 +13,7 @@ Simple **shared** shopping list **for households** providing
 ## Setup
 
 - Clone the repository to your macbook.
+- Add FamilyCart/GoogleService-Info.plist file.
 - Open the project in Xcode.
 - You might need to do `File -> Packages -> Reset Package Caches` to avoid package resolution issues.
 - Let Xcode resolve the dependent packages.
